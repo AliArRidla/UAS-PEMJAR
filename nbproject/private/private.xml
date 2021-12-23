@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project-private xmlns="http://www.netbeans.org/ns/project-private/1">
+    <editor-bookmarks xmlns="http://www.netbeans.org/ns/editor-bookmarks/2" lastBookmarkId="0"/>
+    <open-files xmlns="http://www.netbeans.org/ns/projectui-open-files/2">
+        <group>
+            <file>file:/Users/bee/NetBeansProjects/UASPEMJAR/src/sendfile/client/ReceivingFileThread.java</file>
+            <file>file:/Users/bee/NetBeansProjects/UASPEMJAR/src/sendfile/client/ClientThread.java</file>
+            <file>file:/Users/bee/NetBeansProjects/UASPEMJAR/src/uaspemjar/UASPEMJAR.java</file>
+            <file>file:/Users/bee/NetBeansProjects/UASPEMJAR/src/sendfile/server/MainForm.java</file>
+            <file>file:/Users/bee/NetBeansProjects/UASPEMJAR/src/sendfile/client/MainForm.java</file>
+            <file>file:/Users/bee/NetBeansProjects/UASPEMJAR/src/sendfile/client/SendingFileThread.java</file>
+            <file>file:/Users/bee/NetBeansProjects/UASPEMJAR/src/sendfile/client/MessageStyle.java</file>
+            <file>file:/Users/bee/NetBeansProjects/UASPEMJAR/src/sendfile/client/SendFile.java</file>
+            <file>file:/Users/bee/NetBeansProjects/UASPEMJAR/src/sendfile/client/LoginForm.java</file>
+            <file>file:/Users/bee/NetBeansProjects/UASPEMJAR/src/sendfile/server/ServerThread.java</file>
+            <file>file:/Users/bee/NetBeansProjects/UASPEMJAR/src/sendfile/server/OnlineListThread.java</file>
+            <file>file:/Users/bee/NetBeansProjects/UASPEMJAR/src/sendfile/client/SoundEffect.java</file>
+            <file>file:/Users/bee/NetBeansProjects/UASPEMJAR/src/sendfile/server/SocketThread.java</file>
+        </group>
+    </open-files>
+</project-private>
